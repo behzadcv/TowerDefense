@@ -1,0 +1,9 @@
+p rTD p hor p hor p hor p hor p lRD p hor e t 1 0 f
+p ver f t 1 0 t 1 0 t 1 0 p ver t 1 0 t 1 0 t 1 0 f
+p ver t 1 0 t 1 0 p rTD p hor p lRU p hor p hor p hor p lTD
+p ver t 1 0 t 1 0 p ver t 1 0 t 1 0 t 1 0 t 1 0 f p ver
+p rTT p hor p hor p lUD f t 1 0 f t 1 0 t 1 0 p ver
+t 1 0 f t 1 0 p ver t 1 0 t 1 0 f t 1 0 t 1 0 p ver
+s hor p hor p hor p lUD t 1 0 f t 1 0 t 1 0 t 1 0 p ver
+t 1 0 f t 1 0 p rTT p hor p hor p hor p hor p hor p lTT
+
